@@ -28,3 +28,12 @@ Today, I make some mistakes in varible quantity naming. It is the 'phone number'
 In syntax, only number, words and underline can be found in the name of varible quantity.
 Also, number can not lie in the first place.
 So, the right syntax is 'phone_number'.  
+
+#5
+Today, I have learned the if and else structure.
+Some errors have emerged on my stream. 
+The first was SyntaxError, basic operations of this syntax.
+In the end of the row of 'IF' structure, I missed the colon.
+The second one was the use of TAB.
+When I type codes into if and else structure, it is a proper time to use TAB.
+Also, when I type 'IF', it must be pin top grid and the next one can use TAB.
