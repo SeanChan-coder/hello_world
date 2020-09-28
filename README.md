@@ -30,10 +30,12 @@ Also, number can not lie in the first place.
 So, the right syntax is 'phone_number'.  
 
 #5
-Today, I have learned the if and else structure.
+Today, I have learned the if condition structure.
 Some errors have emerged on my stream. 
 The first was SyntaxError, basic operations of this syntax.
 In the end of the row of 'IF' structure, I missed the colon.
 The second one was the use of TAB.
 When I type codes into if and else structure, it is a proper time to use TAB.
 Also, when I type 'IF', it must be pin top grid and the next one can use TAB.
+
+
