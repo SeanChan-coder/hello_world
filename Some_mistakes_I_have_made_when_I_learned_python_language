@@ -43,3 +43,9 @@ Today, I have learned how to finish a test code case, but I have made some mista
 I thought one element arranged in a listing can be straightly expressed on my stream.
 But the answer is it must be used print to express.
 print(s[ran])
+
+#7
+Today, in an 'IF' condition statement, I added some judgements to finish it.
+The judgement condition needs two equal signs, but I only added one into it.
+The right syntax is 'if username==q:'.
+And the codition which make this syntax operated is only type 'q' or 'Q' on the stream.
