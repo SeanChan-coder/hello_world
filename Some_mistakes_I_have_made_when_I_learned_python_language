@@ -49,3 +49,11 @@ Today, in an 'IF' condition statement, I added some judgements to finish it.
 The judgement condition needs two equal signs, but I only added one into it.
 The right syntax is 'if username==q:'.
 And the codition which make this syntax operated is only type 'q' or 'Q' on the stream.
+
+#8
+Today, I have made a mistake in 'if' condition structure.
+The conditon is whether a choice equals to a number, which requires the format of input variable must be integral.
+
+#9
+tip:
+The following of 'while' syntax can be the input structure.
