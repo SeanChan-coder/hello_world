@@ -56,4 +56,10 @@ The conditon is whether a choice equals to a number, which requires the format o
 
 #9
 tip:
-The following of 'while' syntax can be the input structure.
+The following line of 'while' syntax could be the input structure.
+
+#10
+Today, I learned the definition of founction and how to use it.
+The founction structure is: name of founction plus parameters which the number of it could be numerous.
+Then, how can I import the founction? The answer is input name of founction plus parameters.
+Thus, when I want to import same founction at next time, it could be convenient.
