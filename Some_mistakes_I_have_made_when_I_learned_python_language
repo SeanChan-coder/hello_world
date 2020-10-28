@@ -69,3 +69,7 @@ Today, I made a foolish mistake, that was I spell the 'password' into 'passsword
 That word is a variable which means the rest lines of codes I will use it, alys, so I took my efforts to find it.
 After fourty minutes, I found this error which caused by my carelessness. God, I cannot forgive myself.
 At next time, it is necessory that I must be careful and cautious in the process of coding. 
+
+#12
+Today, when I import the lower founction to transform the checkcode into a format which could not be recognized capital, I miss the bracket.
+Thus, the founction cannot exert its effect in the result of my programme exports error.   
